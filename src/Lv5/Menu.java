@@ -80,12 +80,12 @@ public class Menu {
             menu.addMenuItem(item2);
 
             item3.setName("Zero Coke");
-            item3.setPrice(6.9);
+            item3.setPrice(2.5);
             item3.setContent("제로콜라를 먹으면 0칼로리");
             menu.addMenuItem(item3);
 
             item4.setName("Zero Cider");
-            item4.setPrice(5.4);
+            item4.setPrice(2.5);
             item4.setContent("제로사이다를 먹으면 0칼로리");
             menu.addMenuItem(item4);
 
